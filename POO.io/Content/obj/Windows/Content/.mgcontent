@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/BADBOY.mp3</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Boss00.mp3</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Boss01.mp3</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/erro.mp3</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Exit.png</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/File.spritefont</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/fondo.png</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Instructions.png</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Menu.png</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Play.png</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Space.mp3</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/space2.jpeg</File>
+    <File>C:/Users/Nemesis897GT/Desktop/POO.io[FINAL]/POO.io/POO.io/Content/Title.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>ScoreFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

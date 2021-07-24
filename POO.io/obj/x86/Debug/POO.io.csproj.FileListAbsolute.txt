@@ -1,0 +1,358 @@
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\obj\x86\Debug\POO.io.csprojAssemblyReference.cache
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BADBOY.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BlueScreenDeath.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\CancionMenu.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\erro.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\exit.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\PANTALLAZOAZUL.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\play.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Space.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\space2.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo02.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo03.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo04.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo05.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo06.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo07.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo08.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo09.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo10.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo11.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo12.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo13.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo14.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo15.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo16.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo17.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyStar.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH02.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH03.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH04.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH05.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH06.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH07.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH08.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH09.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH10.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH11.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH12.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH13.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH14.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH15.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH16.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH17.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH18.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH19.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH20.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH21.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH22.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH23.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH24.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH25.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH26.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH27.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH28.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH29.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH30.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH31.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH32.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH33.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH34.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH35.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L02.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L02.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L03.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L00.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L02.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L03.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Objects\Hearth.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\Shot\Shot.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\Content\v01.xnb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.exe
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.pdb
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CopyComplete
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\obj\x86\Debug\POO.io.exe
+C:\Users\Juan Diego tu papá\Desktop\ultima salvada poo\ProyectoFinal v2\POO.io\POO.io\obj\x86\Debug\POO.io.pdb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BADBOY.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BlueScreenDeath.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\CancionMenu.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\erro.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Exit.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Instructions.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\PANTALLAZOAZUL.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Play.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Space.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\space2.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo09.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo10.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo11.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo12.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo13.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo14.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo15.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo16.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo17.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyStar.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH09.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH10.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH11.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH12.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH13.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH14.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH15.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH16.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH17.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH18.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH19.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH20.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH21.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH22.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH23.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH24.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH25.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH26.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH27.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH28.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH29.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH30.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH31.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH32.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH33.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH34.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH35.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Meteorite\Meteorite00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Objects\Hearth.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Shot\Shot.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\v01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.exe
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.pdb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\obj\x86\Debug\POO.io.csprojAssemblyReference.cache
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CoreCompileInputs.cache
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CopyComplete
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\obj\x86\Debug\POO.io.exe
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\obj\x86\Debug\POO.io.pdb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss00.wma
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BADBOY.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BlueScreenDeath.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss00.wma
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Boss01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\CancionMenu.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\erro.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Exit.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Instructions.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\PANTALLAZOAZUL.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Play.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Space.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\space2.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo09.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo10.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo11.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo12.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo13.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo14.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo15.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo16.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Gordo\Gordo17.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyDown01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyStar.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Kirby\KirbyUp01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH09.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH10.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH11.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH12.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH13.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH14.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH15.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH16.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH17.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH18.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH19.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH20.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH21.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH22.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH23.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH24.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH25.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH26.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH27.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH28.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH29.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH30.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH31.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH32.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH33.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH34.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\BH\BH35.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevDie\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevMove\L03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\LevShot\L03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow02.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow03.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow04.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow05.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow06.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow07.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\EnemyArrow\EnemyArrow08.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Meteorite\Meteorite00.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Objects\Hearth.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\Shot\Shot.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\Content\v01.xnb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.exe.manifest
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.application
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.exe
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\POO.io.pdb
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.csprojAssemblyReference.cache
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CoreCompileInputs.cache
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.exe.manifest
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.application
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.csproj.CopyComplete
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.exe
+C:\Users\Nemesis897GT\Desktop\POO.io[FINAL]\POO.io\POO.io\obj\x86\Debug\POO.io.pdb

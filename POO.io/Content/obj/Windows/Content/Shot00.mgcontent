@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nemesis897GT/Documents/ITESM/Semestre 2/Poo/[KIRBY]/[KIRBY]/Content/Shot00.wav</SourceFile>
+  <SourceTime>2016-09-15T14:46:48.8949801-05:00</SourceTime>
+  <DestFile>C:/Users/Nemesis897GT/Documents/ITESM/Semestre 2/Poo/[KIRBY]/[KIRBY]/Content/bin/Windows/Content/Shot00.xnb</DestFile>
+  <DestTime>2019-04-08T14:20:27.2704368-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2019-01-19T15:27:06-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2019-01-19T15:27:06-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
